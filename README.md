@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.discord.gg/cHd2cvMYZF"><img src="https://img.shields.io/discord/979284356730327070?color=d63f50&label=Our%20Discord:&labelColor=000000&logo=discord&logoColor=FFFFFF&style=flat-square"></a>
 <a href="https://github.com/MB-Development2022"><img src="https://img.shields.io/github/followers/MB-Development2022?color=d63f50&label=Follow:&labelColor=000000&logo=github&logoColor=FFFFFF&style=flat-square"></a>
-<a href="https://https://github.com/MB-Development2022/mb-handling"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MB-Development2022&label=Visitors:&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
+<a href="https://https://github.com/MB-Development2022/mb-handling"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MB-Development2022/mb-handling&label=Visitors:&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
 <a href="https://github.com/MB-Development2022/mb-handling/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/MB-Development2022/mb-handling?color=d63f50&label=License:&labelColor=000000&logo=github&style=flat-square"></a>
 <a href="https://github.com/MB-Development2022/mb-handling/issues"><img src="https://img.shields.io/github/issues/MB-Development2022/mb-handling?color=d63f50&label=Issues%3A&labelColor=000000&logo=github&style=flat-square"></a>
 </p>
